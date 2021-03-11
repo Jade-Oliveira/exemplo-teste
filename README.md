@@ -1,1 +1,1 @@
-# exemplo-teste.
+# Layout usando Vue.
